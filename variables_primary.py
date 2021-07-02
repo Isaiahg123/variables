@@ -24,9 +24,12 @@ example_name = 'elia'
 print('EXAMPLE: my name is', example_name)
 
 # WRITE CODE BELOW
-
-
-
+my_name='isaiah'
+print('my name is',my_name)
+my_birthday='october 20'
+print('my birthday is',my_birthday)
+my_animal='lion'
+print('my favorite animal is',my_animal)
 # 1.2 | Variable Creation | Integers / Floats
 #
 # Relevant Documentation
@@ -45,8 +48,10 @@ print('EXAMPLE: my name is', example_name)
 #   5) Print each variable, describing the value you print.
 
 # WRITE CODE BELOW
-
-
+my_number='12'
+print('my favorite number is',my_number)
+my_negative=-11
+print('my favorite negative number',my_negative)
 
 # 1.3 | Overwriting Variables
 #
